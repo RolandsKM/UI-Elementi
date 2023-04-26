@@ -10,9 +10,9 @@ Mr.bean
 - [x] Toggle elementu lietojums
 - [x] Toggle Goup komponents lietojums
 - [x] slider elementu lietojums
-- [ ] audio source integrešana asinā
-- [ ] scroll view elementu lietojums
-- [ ] drag and drop funkcionalitātes ieviešana
-- [ ] pārslēkšanās starp ainām
+- [x] audio source integrešana asinā
+- [x] scroll view elementu lietojums
+- [x] drag and drop funkcionalitātes ieviešana
+- [x] pārslēkšanās starp ainām
 - [ ] objektu generēšana
 - [ ] projektu sagatavošana darbināšanai no darbavirmsas (.exe)
